@@ -1,6 +1,7 @@
 # ML-Openff-project
 
 project utilisant la base de données open food facts importé en format csv
+
 Ouvrir le script avec Jupyter Notebook.
 
 Objectif: Prédire le nutriscore d’un plat ou d’un aliment en fonction de la proportion de ce qu’ils contiennent.
