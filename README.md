@@ -7,6 +7,7 @@ Ouvrir le script avec Jupyter Notebook.
 Objectif: Prédire le nutriscore d’un plat ou d’un aliment en fonction de la proportion de ce qu’ils contiennent.
 
 étapes:
+
 -nettoyage des données
 
 Model de prédiction basique avec un K_NN
