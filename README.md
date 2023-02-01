@@ -7,7 +7,9 @@ Objectif: Prédire le nutriscore d’un plat ou d’un aliment en fonction de la
 
 étapes:
 -nettoyage des données
+
 Model de prédiction basique avec un K_NN
+
 -diviser notre JDD en 2, un pour l'entrainement, un pour tester les résultats
 -normaliser les données
 -entraîner le model
